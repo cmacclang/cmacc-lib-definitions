@@ -10,4 +10,4 @@ $ parties = [./Parties.cmacc]
 
 // Document
 
-{{#definition this}} means a formal legal tribunal, such as a court, arbitral panel{q} or administrative court, that is charged with a {{#definition legal_Proceeding}} involving the {{#definition parties}}.
+{{#definition this}} means a formal legal tribunal, such as a court, arbitral panel or administrative court, that is charged with a {{#definition legal_Proceeding}} involving the {{#definition parties}}.
