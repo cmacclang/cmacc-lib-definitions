@@ -1,0 +1,23 @@
+---
+Definition: Confidential_Information
+---
+
+// Definitions
+
+$ disclosing_Party = [./DisclosingParty.cmacc]
+
+$ receiving_Party = [./ReceivingParty.cmacc]
+
+$ agreement = [./Agreement.cmacc]
+
+// Parameters
+
+$ info_Type = [./ConfidentialInfoType.cmacc]
+
+$ info_Including = [./ConfidentialInfoIncluding.cmacc]
+
+
+// Document
+
+
+{{#definition this}} means any and all {{info_Type}} disclosed by {{#definition disclosing_Party}} to {{#definition receiving_Party}} under this {{#definition agreement}} {{info_Including}}

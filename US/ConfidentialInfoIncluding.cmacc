@@ -1,0 +1,27 @@
+---
+Definition: Confidential Information Included
+---
+
+// Definitions
+
+$ disclosing_Party = [./DisclosingParty.cmacc]
+
+$ receiving_Party = [./ReceivingParty.cmacc]
+
+$ confidential_Information = [./ConfidentialInformation.cmacc]
+
+// Parameters
+
+$ subject = "subject"
+
+// Document
+
+including without limitation information regarding
+
+1.patent and patent applications;
+
+1.trade secrets;
+
+1.proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents and formulae related to {{subject}}, including without limitation {{#definition disclosing_Party}}'s information concerning research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising and marketing plans
+
+1.all other information that {{#definition receiving_Party}} knew, or reasonably should have known, was {{#definition confidential_Information}} of {{#definition disclosing_Party}}.

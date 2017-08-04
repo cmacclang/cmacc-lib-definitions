@@ -1,0 +1,11 @@
+---
+Definition: Deliverable
+---
+
+// Definitions
+
+$ sow = [./SOW.cmacc]
+
+// Document
+
+{{#definition this}} means any deliverable specified in a {{#definition sow}}.

@@ -1,0 +1,15 @@
+---
+Definition: Receiving_Party
+---
+
+// Definitions
+
+$ party = [./Party.cmacc]
+
+$ confidential_Information = [./ConfidentialInformation.cmacc]
+
+$ agreement = [./Agreement.cmacc]
+
+// Document
+
+{{#definition this}} means a {{#definition party}} who receives {{#definition confidential_Information}} under this {{#definition agreement}}.

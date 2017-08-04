@@ -1,0 +1,15 @@
+---
+Definition: PO
+---
+
+// Definitions
+
+$ p1 = [./P1.cmacc]
+
+$ p2 = [./P2.cmacc]
+
+$ agreement = [./Agreement.cmacc]
+
+// Document
+
+{{#definition this}} means a purchase order issued by {{#definition p1}} to {{#definition p2}} under this {{#definition agreement}}.

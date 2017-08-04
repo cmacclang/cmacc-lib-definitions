@@ -1,0 +1,13 @@
+---
+Definition: Force Majeure Affected Party
+---
+
+// Definitions
+
+$ party = [./Party.cmacc]
+
+$ force_Majeure_Event = [./ForceMajeureEvent.cmacc]
+
+// Document
+
+{{#definition this}} means a {{#definition party}} who is affected by a {{#definition force_Majeure_Event}}.

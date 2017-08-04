@@ -1,0 +1,31 @@
+---
+Definition: Force Majeure Event
+---
+
+// Definitions
+
+$ parties = [./Parties.cmacc]
+
+$ party = [./Party.cmacc]
+
+$ force_Majeure_Affected_Party = [./ForceMajeureAffectedParty.cmacc]
+
+$ agreement = [./Agreement.cmacc]
+
+// Parameters
+
+$ force_Majeure_Period = "15 days"
+
+// Document
+
+{{#definition this}} means an event beyond the control of the {{#definition parties}}, which prevents a {{#definition party}} ("{{#definition force_Majeure_Affected_Party}}") from complying with any of its obligations under this {{#definition agreement}} for {{force_Majeure_Period}}, including but not limited to:
+
+1.act of God (such as, but not limited to, fires, explosions, earthquakes, drought, tidal waves and floods);
+
+1.war, hostilities (whether war be declared or not), invasion, act of foreign enemies, mobilization, requisition, or embargo;
+
+1.rebellion, revolution, insurrection, or military or usurped power, or civil war; contamination by radio-activity from any nuclear fuel, or from any nuclear waste from the combustion of nuclear fuel, radio-active toxic explosive, or other hazardous properties of any explosive nuclear assembly or nuclear component of such assembly;
+
+1.riot, commotion, strikes, go slows, lock outs or disorder, unless solely restricted to employees of {{#definition force_Majeure_Affected_Party}} or {{#definition force_Majeure_Affected_Party}}'s subcontractors; or
+
+1.acts or threats of terrorism.

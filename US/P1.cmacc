@@ -1,0 +1,17 @@
+---
+Definition: P1
+---
+
+// Definitions
+
+$ party = [./Party.cmacc]
+
+$ agreement = [./Agreement.cmacc]
+
+// Parameters
+
+$ intro_Section = "introduction section"
+
+// Document
+
+{{#definition this}} means the {{#definition party}} to this {{#definition agreement}} identified as such in the {{intro_Section}} of this {{#definition agreement}}.

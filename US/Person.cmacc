@@ -1,0 +1,11 @@
+---
+Definition: Person
+---
+
+// Definitions
+
+$ entity = [./Entity.cmacc]
+
+// Document
+
+{{#definition this}} means a human or an {{#definition entity}}.

@@ -1,0 +1,15 @@
+---
+Definition: Disclosing Party
+---
+
+// Definitions
+
+$ confidential_Information = [./ConfidentialInformation.cmacc]
+
+$ party = [./Party.cmacc]
+
+$ agreement = [./Agreement.cmacc]
+
+// Document
+
+{{#definition this}} means a {{#definition party}} who provides {{#definition confidential_Information}} under this {{#definition agreement}}.
