@@ -2,14 +2,10 @@
 Definition: Confidentiality Engagement
 ---
 
-// Definitions
-
-$ receiving_Party = [./ReceivingParty.cmacc]
-
 // Parameters
 
 $ relate_Conf_Engage_Xref = "Relate.Conf.Engage.Xref"
 
 // Document
 
-{{#definition this}} means any of the engagements of a {{#definition receiving_Party}} under {{relate_Conf_Engage_Xref}}.
+{{#definition this}} means any of the engagements of a {{#definition [./ReceivingParty.cmacc]}} under {{relate_Conf_Engage_Xref}}.

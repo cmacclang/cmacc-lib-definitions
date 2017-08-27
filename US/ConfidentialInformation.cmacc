@@ -1,14 +1,13 @@
 ---
 Definition: Confidential_Information
 ---
+
 // Parameters
 
 $ info_Type = [./ConfidentialInfoType.cmacc]
 
 $ info_Including = [./ConfidentialInfoIncluding.cmacc]
 
-
 // Document
-
 
 {{#definition this}} means any and all {{info_Type}} disclosed by {{#definition [./DisclosingParty.cmacc]}} to {{#definition [./ReceivingParty.cmacc]}} under this {{#definition [./Agreement.cmacc]}} {{info_Including}}

@@ -2,13 +2,9 @@
 Definition: Purpose
 ---
 
-// Definitions
-
-$ agreement = [./Agreement.cmacc]
-
 // Parameters
 
 $ why_Sec = "Recitals"
 
 // Document
-{{#definition this}} has the meaning defined in the {{why_Sec}} to this {{#definition agreement}}.
+{{#definition this}} has the meaning defined in the {{why_Sec}} to this {{#definition [./Agreement.cmacc]}}.

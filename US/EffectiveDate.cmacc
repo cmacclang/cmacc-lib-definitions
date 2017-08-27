@@ -2,14 +2,10 @@
 Definition: Effective Date
 ---
 
-// Definitions
-
-$ agreement = [./Agreement.cmacc]
-
 // Parameters
 
 $ intro_Section = "introduction section"
 
 // Document
 
-{{#definition this}} is defined in the {{intro_Section}} of this {{#definition agreement}}.
+{{#definition this}} is defined in the {{intro_Section}} of this {{#definition [./Agreement.cmacc]}}.
