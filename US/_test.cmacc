@@ -1,3 +1,11 @@
+---
+Definition: Confidential Information
+---
+
+// Parameters
+
+$ info_Included = [./ConfidentialInfoIncluded.cmacc]
+
 // Document
 
-including without limitation information regarding {{[./ConfidentialInfoIncluded.cmacc]}}
+{{#definition this}} means any and all regarding {{info_Included}}
