@@ -1,17 +1,3 @@
----
-Definition: Work Product
----
-
-// Parameters
-
-$ works_Description = "ideas, concepts, processes, discoveries, developments, formulae, information, materials, improvements, designs, artwork, content, software programs, other copyrightable works and any other work product"
-
-$ works_Time = "during or before the term of this {{#definition agreement}}"
-
-$ works_IPR = "copyrights, patents, trademarks, trade secrets and other intellectual property rights"
-
-$ works_Including = ", including all {{works_IPR}} therein"
-
 // Document
 
-{{#definition this}} means {{works_Description}} created, conceived or developed by {{#definition [./P2.cmacc]}} (whether alone or jointly with others) for {{#definition [./P1.cmacc]}} {{works_Time}} {{works_Including}}.
+including without limitation information regarding {{[./ConfidentialInfoIncluded.cmacc]}}

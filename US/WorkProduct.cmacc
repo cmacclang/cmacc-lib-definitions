@@ -6,7 +6,7 @@ Definition: Work Product
 
 $ works_Description = "ideas, concepts, processes, discoveries, developments, formulae, information, materials, improvements, designs, artwork, content, software programs, other copyrightable works and any other work product"
 
-$ works_Time = "during or before the term of this {{#definition agreement}}"
+$ works_Time = "during or before the term of this {{#definition [./Agreement.cmacc]}}"
 
 $ works_IPR = "copyrights, patents, trademarks, trade secrets and other intellectual property rights"
 
