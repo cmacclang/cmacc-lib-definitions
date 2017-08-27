@@ -10,4 +10,6 @@ $ info_Included = [./ConfidentialInfoIncluded.cmacc]
 
 // Document
 
-{{#definition this}} means any and all {{info_Type}} disclosed by {{#definition [./DisclosingParty.cmacc]}} to {{#definition [./ReceivingParty.cmacc]}} under this {{#definition [./Agreement.cmacc]}} including without limitation information regarding {{info_Included}}
+{{#definition this}} means any and all {{info_Type}} disclosed by {{#definition [./DisclosingParty.cmacc]}} to {{#definition [./ReceivingParty.cmacc]}} under this {{#definition [./Agreement.cmacc]}} including without limitation information regarding 
+
+{{info_Included}}
