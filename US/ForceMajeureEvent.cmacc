@@ -16,6 +16,6 @@ $ force_Majeure_Period = "15 days"
 
 3. rebellion, revolution, insurrection, or military or usurped power, or civil war; contamination by radio-activity from any nuclear fuel, or from any nuclear waste from the combustion of nuclear fuel, radio-active toxic explosive, or other hazardous properties of any explosive nuclear assembly or nuclear component of such assembly;
 
-4. riot, commotion, strikes, go slows, lock outs or disorder, unless solely restricted to employees of {{#definition force_Majeure_Affected_Party}} or {{#definition [./ForceMajeureAffectedParty.cmacc]}}'s subcontractors; or
+4. riot, commotion, strikes, go slows, lock outs or disorder, unless solely restricted to employees of {{#definition [./ForceMajeureAffectedParty.cmacc]}} or {{#definition [./ForceMajeureAffectedParty.cmacc]}}'s subcontractors; or
 
 5. acts or threats of terrorism.
