@@ -1,46 +1,46 @@
 // Parameters
 
-$ agreement = [./Agreement.cmacc]
+$ agreement = [../Agreement.cmacc]
 
-$ confidential_Information = [./ConfidentialInformation.cmacc]
+$ confidential_Information = [../ConfidentialInformation.cmacc]
 
-$ confidentiality_Engagement = [./ConfidentialityEngagement.cmacc]
+$ confidentiality_Engagement = [../ConfidentialityEngagement.cmacc]
 
-$ deliverable = [./Deliverable.cmacc]
+$ deliverable = [../Deliverable.cmacc]
 
-$ disclosing_Party = [./DisclosingParty.cmacc]
+$ disclosing_Party = [../DisclosingParty.cmacc]
 
-$ effective_Date = [./EffectiveDate.cmacc]
+$ effective_Date = [../EffectiveDate.cmacc]
 
-$ entity = [./Entity.cmacc]
+$ entity = [../Entity.cmacc]
 
-$ force_Majeure_Event = [./ForceMajeureEvent.cmacc]
+$ force_Majeure_Event = [../ForceMajeureEvent.cmacc]
 
-$ legal_Proceeding = [./LegalProceeding.cmacc]
+$ legal_Proceeding = [../LegalProceeding.cmacc]
 
-$ party = [./Party.cmacc]
+$ party = [../Party.cmacc]
 
-$ p1 = [./P1.cmacc]
+$ p1 = [../P1.cmacc]
 
-$ p2 = [./P2.cmacc]
+$ p2 = [../P2.cmacc]
 
-$ person = [./Person.cmacc]
+$ person = [../Person.cmacc]
 
-$ pO = [./PO.cmacc]
+$ pO = [../PO.cmacc]
 
-$ preexisting_IP = [./PreexistingIP.cmacc]
+$ preexisting_IP = [../PreexistingIP.cmacc]
 
-$ purpose = [./Purpose.cmacc]
+$ purpose = [../Purpose.cmacc]
 
-$ receiving_Party = [./ReceivingParty.cmacc]
+$ receiving_Party = [../ReceivingParty.cmacc]
 
-$ service = [./Service.cmacc]
+$ service = [../Service.cmacc]
 
-$ SOW = [./SOW.cmacc]
+$ SOW = [../SOW.cmacc]
 
-$ transclude = [./Transclude.cmacc]
+$ transclude = [../Transclude.cmacc]
 
-$ tribunal = [./Tribunal.cmacc]
+$ tribunal = [../Tribunal.cmacc]
 
 // Content
 

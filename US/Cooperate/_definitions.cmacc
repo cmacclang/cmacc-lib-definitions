@@ -1,5 +1,95 @@
-Ti=Definitions
+// Parameters
 
-sec=<ul class="secs-and" type="none">{{Agreement.LI}}{{Confidential_Information.LI}}{{Confidentiality_Engagement.LI}}{{Disclosing_Party.LI}}{{Effective_Date.LI}}{{Entity.LI}}{{Legal_Proceeding.LI}}{{Party.LI}}<ol>{{P1.LI}}{{P2.LI}}</ol>{{Person.LI}}{{Purpose.LI}}{{Receiving_Party.LI}}{{Transclude.LI}}{{Tribunal.LI}}</ul>
+$ agreement = [../Agreement.cmacc]
 
-=[G/IACCM-Cooperate-CmA/Sec/Def/0.md]
+$ confidential_Information = [../ConfidentialInformation.cmacc]
+
+$ confidentiality_Engagement = [../ConfidentialityEngagement.cmacc]
+
+$ disclosing_Party = [../DisclosingParty.cmacc]
+
+$ effective_Date = [../EffectiveDate.cmacc]
+
+$ entity = [../Entity.cmacc]
+
+$ force_Majeure_Event = [../ForceMajeureEvent.cmacc]
+
+$ legal_Proceeding = [../LegalProceeding.cmacc]
+
+$ party = [../Party.cmacc]
+
+$ p1 = [../P1.cmacc]
+
+$ p2 = [../P2.cmacc]
+
+$ person = [../Person.cmacc]
+
+$ purpose = [../Purpose.cmacc]
+
+$ receiving_Party = [../ReceivingParty.cmacc]
+
+$ transclude = [../Transclude.cmacc]
+
+$ tribunal = [../Tribunal.cmacc]
+
+// Content
+
+# Definitions
+
+{{#section 'x'}}. Agreement
+
+{{agreement}}
+
+{{#section 'x'}}. Confidential Information
+
+{{confidential_Information}}
+
+{{#section 'x'}}. Confidentiality Engagement
+
+{{confidentiality_Engagement}}
+
+{{#section 'x'}}. Disclosing Party
+
+{{disclosing_Party}}
+
+{{#section 'x'}}. Effective Date
+
+{{effective_Date}}
+
+{{#section 'x'}}. Force Majeure Event
+
+{{force_Majeure_Event}}
+
+{{#section 'x'}}. Entity
+
+{{entity}}
+
+{{#section 'x'}}. Legal Proceeding
+
+{{legal_Proceeding}}
+
+{{#section 'x'}}. Party
+
+{{party}}
+
+{{p1}}
+
+{{p2}}
+
+{{person}}
+
+{{#section 'x'}}. Purpose
+
+{{purpose}}
+
+{{#section 'x'}}. Receiving Party
+
+{{receiving_Party}}
+
+{{#section 'x'}}. Service
+
+{{transclude}}
+
+{{#section 'x'}}. Tribunal
+
+{{tribunal}}
