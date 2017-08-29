@@ -4,8 +4,8 @@ Definition: Preexisting IP
 
 // Parameters
 
-$ relate_Own_PreexistingIP_Xref = "Relate.Own.PreexistingIP.Xref"
+$ reference_Relate_Own_PreexistingIP = "Relate.Own.PreexistingIP.Xref"
 
 // Document
 
-{{#definition this}} is defined in {{relate_Own_PreexistingIP_Xref}}.
+{{#definition this}} is defined in {{reference_Relate_Own_PreexistingIP}}.

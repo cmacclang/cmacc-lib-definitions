@@ -4,4 +4,4 @@ Definition: Force Majeure Creditor Party
 
 // Document
 
-{{#definition this}} means a {{#definition [./Party.cmacc}} to whom a duty of performance is owed by a {{#definition [./ForceMajeureAffectedParty]}}.
+{{#definition this}} means a {{#definition [./Party.cmacc]}} to whom a duty of performance is owed by a {{#definition [./ForceMajeureAffectedParty.cmacc]}}.

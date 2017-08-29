@@ -1,0 +1,125 @@
+// Parameters
+
+$ agreement = [./Agreement.cmacc]
+
+$ confidential_Information = [./ConfidentialInformation.cmacc]
+
+$ confidentiality_Engagement = [./ConfidentialityEngagement.cmacc]
+
+$ deliverable = [./Deliverable.cmacc]
+
+$ disclosing_Party = [./DisclosingParty.cmacc]
+
+$ effective_Date = [./EffectiveDate.cmacc]
+
+$ entity = [./Entity.cmacc]
+
+$ force_Majeure_Event = [./ForceMajeureEvent.cmacc]
+
+$ force_Majeure_Creditor_Party = [./ForceMajeureCreditorParty.cmacc]
+
+$ force_Majeure_Affected_Party = [./ForceMajeureAffectedParty.cmacc]
+
+$ legal_Proceeding = [./LegalProceeding.cmacc]
+
+$ party = [./Party.cmacc]
+
+$ p1 = [./P1.cmacc]
+
+$ p2 = [./P2.cmacc]
+
+$ person = [./Person.cmacc]
+
+$ pO = [./PO.cmacc]
+
+$ preexisting_IP = [./PreexistingIP.cmacc]
+
+$ purpose = [./Purpose.cmacc]
+
+$ receiving_Party = [./ReceivingParty.cmacc]
+
+$ service = [./Service.cmacc]
+
+$ SOW = [./SOW.cmacc]
+
+$ transclude = [./Transclude.cmacc]
+
+$ tribunal = [./Tribunal.cmacc]
+
+// Content
+
+# Definitions
+
+{{#section 'x'}}. Agreement
+
+{{agreement}}
+
+{{#section 'x'}}. Confidential Information
+
+{{confidential_Information}}
+
+{{#section 'x'}}. Confidentiality Engagement
+
+{{confidentiality_Engagement}}
+
+{{#section 'x'}}. Deliverable
+
+{{deliverable}}
+
+{{#section 'x'}}. Disclosing Party
+
+{{disclosing_Party}}
+
+{{#section 'x'}}. Effective Date
+
+{{effective_Date}}
+
+{{#section 'x'}}. Entity
+
+{{entity}}
+
+{{#section 'x'}}. Legal Proceeding
+
+{{legal_Proceeding}}
+
+{{#section 'x'}}. Party
+
+{{party}}
+
+{{p1}}
+
+{{p2}}
+
+{{person}}
+
+{{#section 'x'}}. PO
+
+{{pO}}
+
+{{#section 'x'}}. Preexisting IP
+
+{{preexisting_IP}}
+
+{{#section 'x'}}. Purpose
+
+{{purpose}}
+
+{{#section 'x'}}. Receiving Party
+
+{{receiving_Party}}
+
+{{#section 'x'}}. Service
+
+{{service}}
+
+{{#section 'x'}}. SOW
+
+{{SOW}}
+
+{{#section 'x'}}. Transclude
+
+{{transclude}}
+
+{{#section 'x'}}. Tribunal
+
+{{tribunal}}

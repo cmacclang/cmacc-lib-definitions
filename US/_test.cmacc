@@ -1,11 +1,12 @@
----
-Definition: Confidential Information
----
-
 // Parameters
 
-$ info_Included = [./ConfidentialInfoIncluded.cmacc]
+$ work_Product = [./WorkProduct.cmacc]
 
-// Document
 
-{{#definition this}} means any and all regarding {{info_Included}}
+// Content
+
+# Definitions
+
+{{#section 'x'}}. Work Product
+
+{{work_Product}}

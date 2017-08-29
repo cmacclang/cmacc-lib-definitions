@@ -8,10 +8,10 @@ $ subject = "subject"
 
 // Document
 
-1.patent and patent applications;
+1. patent and patent applications;
 
-2.trade secrets;
+2. trade secrets;
 
-3.proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents and formulae related to {{subject}}, including without limitation {{#definition [./DisclosingParty.cmacc]}}'s information concerning research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising and marketing plans
+3. proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents and formulae related to {{subject}}, including without limitation {{#definition [./DisclosingParty.cmacc]}}'s information concerning research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising and marketing plans
 
-4.all other information that {{#definition [./ReceivingParty.cmacc]}} knew, or reasonably should have known, was {{#definition [./ConfidentialInformation.cmacc]}} of {{#definition [./DisclosingParty.cmacc]}}.
+4. all other information that {{#definition [./ReceivingParty.cmacc]}} knew, or reasonably should have known, was {{#definition [./ConfidentialInformation.cmacc]}} of {{#definition [./DisclosingParty.cmacc]}}.

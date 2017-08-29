@@ -4,6 +4,6 @@ Definition: Parties
 
 // Parameters
 
-$ intro_Section = "introduction section"
+$ reference_Intro_Section = "introduction section"
 
-{{#definition this}} means any of the parties to this {{#definition [./Agreement.cmacc]}} as defined in the {{intro_Section}} of this {{#definition [./Agreement.cmacc]}}.
+{{#definition this}} means any of the parties to this {{#definition [./Agreement.cmacc]}} as defined in the {{reference_Intro_Section}} of this {{#definition [./Agreement.cmacc]}}.

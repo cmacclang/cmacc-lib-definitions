@@ -4,8 +4,8 @@ Definition: SOW
 
 // Parameters
 
-$ relate_Service_Project_Xref = "Relate.Service.Project.Xref"
+$ reference_Relate_Service_Project = "Relate.Service.Project.Xref"
 
 // Document
 
-{{#definition this}} is defined in {{relate_Service_Project_Xref}}.
+{{#definition this}} is defined in {{reference_Relate_Service_Project}}.

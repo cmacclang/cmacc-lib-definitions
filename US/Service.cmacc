@@ -4,8 +4,8 @@ Definition: Service
 
 // Parameters
 
-$ relate_Service_Perform_Xref = "Relate.Service.Perform.Xref"
+$ reference_Relate_Service_Perform = "Relate.Service.Perform.Xref"
 
 // Document
 
-{{#definition this}} is defined in {{relate_Service_Perform_Xref}}.
+{{#definition this}} is defined in {{reference_Relate_Service_Perform}}.

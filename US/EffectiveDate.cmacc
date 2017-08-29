@@ -4,8 +4,8 @@ Definition: Effective Date
 
 // Parameters
 
-$ intro_Section = "introduction section"
+$ reference_Intro_Section = "introduction section"
 
 // Document
 
-{{#definition this}} is defined in the {{intro_Section}} of this {{#definition [./Agreement.cmacc]}}.
+{{#definition this}} is defined in the {{reference_Intro_Section}} of this {{#definition [./Agreement.cmacc]}}.
