@@ -42,6 +42,8 @@ $ transclude = [./Transclude.cmacc]
 
 $ tribunal = [./Tribunal.cmacc]
 
+$ work_Product = [./WorkProduct.cmacc]
+
 // Content
 
 # Definitions
@@ -123,3 +125,7 @@ $ tribunal = [./Tribunal.cmacc]
 {{#section 'x'}}. Tribunal
 
 {{tribunal}}
+
+{{#section 'x'}}. Work Product
+
+{{work_Product}}
