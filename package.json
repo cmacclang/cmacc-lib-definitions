@@ -1,6 +1,6 @@
 {
   "name": "cmacc-lib-definitions",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "repository": "https://github.com/cmacclang/cmacc-lib-definitions.git",
   "author": "Marc Dangeard <marc@dangeard.com>",
   "license": "MIT",
